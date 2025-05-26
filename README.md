@@ -44,6 +44,7 @@ The official text of the Tiwaz License, version 1.0 can be found at:
 
 * [https://tiwaz.fyi/licenses/tiwaz-license-version-1-0/](https://tiwaz.fyi/licenses/tiwaz-license-version-1-0/)
 * [https://github.com/tiwaz-license/version-1.0/](https://github.com/tiwaz-license/version-1.0/)
+* [in this repo](./LICENSE.txt) ([Markdown](./LICENSE.md), [HTML](./LICENSE.html))
 
 ## Disclaimer
 
