@@ -1,5 +1,7 @@
 # Tiwaz License, version 1.0
 
+> This version of the License is not final. Do not use it. The final and official version will be released in the `final` branch when the OSI approves it.
+
 ## About The License
 
 The Tiwaz License, version 1.0 is a free and open-source software license. It is a "file-level" or "weak copyleft" license, similar in structure and intent to licenses like the Mozilla Public License 2.0. This means that while modifications to files covered by the Tiwaz License must themselves be licensed under the Tiwaz License, the license permits combining the Covered Software with other software (a "Larger Work") under different licenses, as long as the requirements for the Tiwaz-licensed portions are met.
