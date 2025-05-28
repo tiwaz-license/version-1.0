@@ -315,7 +315,7 @@ such a notice.
 
 You may add additional accurate notices of copyright ownership.
 
-## Exhibit B: Acknowledgements and Relationship to MPL-2.0
+## Exhibit B - Acknowledgements and Relationship to MPL-2.0
 
 The Tiwaz License, version 1.0, is derived from the Mozilla Public
 License, Version 2.0 (MPL 2.0). The original text of the MPL 2.0
