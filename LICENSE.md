@@ -87,7 +87,7 @@ first distributes such Contribution.
 The licenses granted in this Section 2 are the only rights granted
 under this License. No additional rights or licenses will be implied
 from the distribution or licensing of Covered Software under this
-License. Notwithstanding Section 2.1(b) above, no patent license is
+License. Notwithstanding Section 2.1(2) above, no patent license is
 granted by a Contributor:
 
 1. for any code that a Contributor has removed from Covered Software; or
@@ -104,20 +104,20 @@ This License does not grant any rights in the trademarks, service
 marks, or logos of any Contributor (except as may be necessary to
 comply with the notice requirements in Section 3.4).
 
-### 2.6. Representation
+### 2.4. Representation
 
 Each Contributor represents that the Contributor believes its
 Contributions are its original creation(s) or it has sufficient
 rights to grant the rights to its Contributions conveyed by this
 License.
 
-### 2.7. Fair Use
+### 2.5. Fair Use
 
 This License is not intended to limit any rights You have under
 applicable copyright doctrines of fair use, fair dealing, or other
 equivalents.
 
-### 2.8. Conditions
+### 2.6. Conditions
 
 Sections 3.1, 3.2, 3.3, and 3.4 are conditions of the licenses
 granted in Section 2.1.
@@ -226,33 +226,37 @@ prior to termination shall survive termination.
 
 ## 6. Disclaimer of Warranty
 
-Covered Software is provided under this License on an "as is" basis,
-without warranty of any kind, either expressed, implied, or statutory,
-including, without limitation, warranties that the Covered Software is
-free of defects, merchantable, fit for a particular purpose or
-non-infringing. The entire risk as to the quality and performance of
-the Covered Software is with You. Should any Covered Software prove
-defective in any respect, You (not any Contributor) assume the cost of
-any necessary servicing, repair, or correction. This disclaimer of
-warranty constitutes an essential part of this License. No use of any
-Covered Software is authorized under this License except under this
-disclaimer.
+>
+> Covered Software is provided under this License on an "as is" basis,
+> without warranty of any kind, either expressed, implied, or statutory,
+> including, without limitation, warranties that the Covered Software is
+> free of defects, merchantable, fit for a particular purpose or
+> non-infringing. The entire risk as to the quality and performance of
+> the Covered Software is with You. Should any Covered Software prove
+> defective in any respect, You (not any Contributor) assume the cost of
+> any necessary servicing, repair, or correction. This disclaimer of
+> warranty constitutes an essential part of this License. No use of any
+> Covered Software is authorized under this License except under this
+> disclaimer.
+>
 
 ## 7. Limitation of Liability
 
-Under no circumstances and under no legal theory, whether tort
-(including negligence), contract, or otherwise, shall any Contributor,
-or anyone who distributes Covered Software as permitted above, be liable
-to You for any direct, indirect, special, incidental, or consequential
-damages of any character including, without limitation, damages for
-lost profits, loss of goodwill, work stoppage, computer failure or
-malfunction, or any and all other commercial damages or losses, even
-if such party shall have been informed of the possibility of such damages.
-This limitation of liability shall not apply to liability for death or
-personal injury resulting from such party's negligence to the extent
-applicable law prohibits such limitation. Some jurisdictions do not allow
-the exclusion or limitation of incidental or consequential damages, so this
-exclusion and limitation may not apply to You.
+>
+> Under no circumstances and under no legal theory, whether tort
+> (including negligence), contract, or otherwise, shall any Contributor,
+> or anyone who distributes Covered Software as permitted above, be liable
+> to You for any direct, indirect, special, incidental, or consequential
+> damages of any character including, without limitation, damages for
+> lost profits, loss of goodwill, work stoppage, computer failure or
+> malfunction, or any and all other commercial damages or losses, even
+> if such party shall have been informed of the possibility of such damages.
+> This limitation of liability shall not apply to liability for death or
+> personal injury resulting from such party's negligence to the extent
+> applicable law prohibits such limitation. Some jurisdictions do not allow
+> the exclusion or limitation of incidental or consequential damages, so this
+> exclusion and limitation may not apply to You.
+>
 
 ## 8. Litigation
 
