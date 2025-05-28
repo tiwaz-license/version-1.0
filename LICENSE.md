@@ -314,3 +314,15 @@ in a relevant directory) where a recipient would be likely to look for
 such a notice.
 
 You may add additional accurate notices of copyright ownership.
+
+## Exhibit B: Acknowledgements and Relationship to MPL-2.0
+
+The Tiwaz License, version 1.0, is derived from the Mozilla Public
+License, Version 2.0 (MPL 2.0). The original text of the MPL 2.0
+is available at https://www.mozilla.org/MPL/2.0/.
+
+This Tiwaz License, version 1.0, is not published, stewarded, endorsed,
+or approved by the Mozilla Foundation or any steward of the Mozilla
+Public License. There is no affiliation between the Tiwaz Project (or
+the steward of the Tiwaz License) and the Mozilla Foundation or its
+projects with respect to the Tiwaz License.
